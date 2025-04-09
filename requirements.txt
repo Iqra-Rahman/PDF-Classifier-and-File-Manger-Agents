@@ -1,0 +1,8 @@
+langchain
+pydantic
+python-dotenv
+PyPDF2
+pdfplumber
+transformers
+shutil
+zipfile
